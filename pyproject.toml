@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "verifiable-text2sql-agentic-rl"
+version = "0.1.0"
+description = "Verifiable Text-to-SQL Agentic RL environment"
+requires-python = ">=3.12"
+
+[tool.setuptools]
+package-dir = {"" = "upgraded_implementation/src"}
+
+[tool.setuptools.packages.find]
+where = ["upgraded_implementation/src"]

@@ -1,0 +1,81 @@
+{
+  "source_root": "D:\\01_project\\找工作的项目\\agentic RL",
+  "copied": [
+    {
+      "source": "D:\\01_project\\找工作的项目\\agentic RL\\项目源码\\spider\\README.md",
+      "target": "D:\\01_project\\找工作的项目\\02_verifiable_text2sql_agentic_rl\\legacy_reproduction\\spider\\README.md",
+      "sha256": "71999decb67bb72cdac3512251b994067c3e5f0a6e17d89d61e6eec31c2fdb48",
+      "bytes": 1927
+    },
+    {
+      "source": "D:\\01_project\\找工作的项目\\agentic RL\\项目源码\\spider\\sql_agent.py",
+      "target": "D:\\01_project\\找工作的项目\\02_verifiable_text2sql_agentic_rl\\legacy_reproduction\\spider\\sql_agent.py",
+      "sha256": "44bf66f341838ea7e5956bf451882236dda5a7296abb0e00b9cd1a400164be01",
+      "bytes": 18533
+    },
+    {
+      "source": "D:\\01_project\\找工作的项目\\agentic RL\\项目源码\\spider\\train_sql_agent.py",
+      "target": "D:\\01_project\\找工作的项目\\02_verifiable_text2sql_agentic_rl\\legacy_reproduction\\spider\\train_sql_agent.py",
+      "sha256": "63445c4abc946b2af2523939f37109b09c8622d885161dfc8a8c38e8f3a589f6",
+      "bytes": 6829
+    },
+    {
+      "source": "D:\\01_project\\找工作的项目\\agentic RL\\项目源码\\spider\\spider_eval\\async_utils.py",
+      "target": "D:\\01_project\\找工作的项目\\02_verifiable_text2sql_agentic_rl\\legacy_reproduction\\spider\\spider_eval\\async_utils.py",
+      "sha256": "b1a52cf56c2305d154f098991a4d2b912935e2d4fe6cd8755637be3608efc249",
+      "bytes": 1081
+    },
+    {
+      "source": "D:\\01_project\\找工作的项目\\agentic RL\\项目源码\\spider\\spider_eval\\convert_dataset.py",
+      "target": "D:\\01_project\\找工作的项目\\02_verifiable_text2sql_agentic_rl\\legacy_reproduction\\spider\\spider_eval\\convert_dataset.py",
+      "sha256": "9f673d04315f02654dbb55190320cdda69981b5d9a18274e8101feb20087c574",
+      "bytes": 1239
+    },
+    {
+      "source": "D:\\01_project\\找工作的项目\\agentic RL\\项目源码\\spider\\spider_eval\\evaluation.py",
+      "target": "D:\\01_project\\找工作的项目\\02_verifiable_text2sql_agentic_rl\\legacy_reproduction\\spider\\spider_eval\\evaluation.py",
+      "sha256": "58bd1e2d32479a63ba10f94466341a3630309191c1a7f62002e37ca32c6f880f",
+      "bytes": 34499
+    },
+    {
+      "source": "D:\\01_project\\找工作的项目\\agentic RL\\项目源码\\spider\\spider_eval\\exec_eval.py",
+      "target": "D:\\01_project\\找工作的项目\\02_verifiable_text2sql_agentic_rl\\legacy_reproduction\\spider\\spider_eval\\exec_eval.py",
+      "sha256": "a21ebf0f724b075777104ff925847dd1a4d843f4583cead19fe487224f2b4c9f",
+      "bytes": 9223
+    },
+    {
+      "source": "D:\\01_project\\找工作的项目\\agentic RL\\项目源码\\spider\\spider_eval\\parse.py",
+      "target": "D:\\01_project\\找工作的项目\\02_verifiable_text2sql_agentic_rl\\legacy_reproduction\\spider\\spider_eval\\parse.py",
+      "sha256": "1456cf4a038033b8aa4a5f36a31018d5f77ffde9e39f02b19eae39de4bd5e57d",
+      "bytes": 8340
+    },
+    {
+      "source": "D:\\01_project\\找工作的项目\\agentic RL\\项目源码\\spider\\spider_eval\\process_sql.py",
+      "target": "D:\\01_project\\找工作的项目\\02_verifiable_text2sql_agentic_rl\\legacy_reproduction\\spider\\spider_eval\\process_sql.py",
+      "sha256": "f57aebbd0b2c6e9c8b7bdb281a6d7fc7ad28681bd6afd05d8585ca8ca8c2f704",
+      "bytes": 17079
+    },
+    {
+      "source": "D:\\01_project\\找工作的项目\\agentic RL\\项目源码\\spider\\spider_eval\\__init__.py",
+      "target": "D:\\01_project\\找工作的项目\\02_verifiable_text2sql_agentic_rl\\legacy_reproduction\\spider\\spider_eval\\__init__.py",
+      "sha256": "0ed64f778922c80b3724d4e06891bf13238c12fb226440023168e47ac3c22042",
+      "bytes": 48
+    },
+    {
+      "source": "D:\\01_project\\找工作的项目\\agentic RL\\Agent Lightning快速入门.md",
+      "target": "D:\\01_project\\找工作的项目\\02_verifiable_text2sql_agentic_rl\\course_materials\\Agent Lightning快速入门.md",
+      "sha256": "247d2fcfd8b169e4cf987d44f54ac84fa62febec6f1be2cf294f1d032a7a2542",
+      "bytes": 92881
+    }
+  ],
+  "external_only": [
+    {
+      "source": "D:\\01_project\\找工作的项目\\agentic RL\\微调SQL数据集",
+      "reason": "canonical Spider data remains in its original location"
+    },
+    {
+      "source": "D:\\01_project\\找工作的项目\\agentic RL\\项目源码\\spider\\train_spider.parquet",
+      "reason": "course dataset is referenced rather than duplicated"
+    }
+  ]
+}
